@@ -39,3 +39,18 @@
 
 # debug information files
 *.dwo
+
+
+# build directories
+/build/
+/bin/
+/Debug/
+/Release/
+/x64/
+/xc64/
+/Debug32/
+/Release32/
+/x86/
+/xc86/
+/target/
+/obj/  
